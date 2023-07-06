@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+2023 social media app. (with private.. school)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
